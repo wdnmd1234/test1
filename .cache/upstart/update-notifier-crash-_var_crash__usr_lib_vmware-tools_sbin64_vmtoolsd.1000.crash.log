@@ -1,0 +1,3 @@
+Wed Jun 19 17:25:52 PDT 2019 crash report /var/crash/_usr_lib_vmware-tools_sbin64_vmtoolsd.1000.crash detected
+/usr/share/apport/apport-gtk:16: PyGIWarning: Wnck was imported without specifying a version first. Use gi.require_version('Wnck', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GLib, Wnck, GdkX11, Gdk
